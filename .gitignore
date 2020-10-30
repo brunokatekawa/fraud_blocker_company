@@ -1,4 +1,21 @@
+# Editors
+.vscode/
+.idea/
+.virtual_documents/
+
+# Mac/OSX
 .DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data
+data/
+
+# Folders
 catboost_info/
 data/
 model/
