@@ -157,7 +157,7 @@ As observed, transfer represents `8.3%` of the total non fraudulent transactions
 
 > Thus, the hypothesis is **FALSE**.
 
-### H3. Customer to Merchant (C2M) represent at least 50% of the total fraudulent transactions. (FALSE)
+#### H3. Customer to Merchant (C2M) represent at least 50% of the total fraudulent transactions. (FALSE)
 
 | Transaction direction | Percentage of the total |
 |-----------------------|-------------------------|
@@ -170,7 +170,7 @@ As observed, C2C represents `100%` of the total fraudulent transactions, while t
 
 > Thus, the hypothesis is **FALSE**.
 
-### H8. Destination non zero new balance represents 50% of the total fraudulent transactions. (TRUE)
+#### H8. Destination non zero new balance represents 50% of the total fraudulent transactions. (TRUE)
 
 | Destination New Balance status | Percentage of the total |
 |--------------------------------|-------------------------|
@@ -183,7 +183,7 @@ As observed, destination non zero new balance represents `~50%` of the total fra
 
 > Thus, the hypothesis is **TRUE**.
 
-### H11. At least 95% of the total fraudulent transactions are flagged as fraud. (FALSE)
+#### H11. At least 95% of the total fraudulent transactions are flagged as fraud. (FALSE)
 
 | Flagged as fraud? | Percentage of the total |
 |-------------------|-------------------------|
@@ -198,7 +198,7 @@ As observed, `~99.8%`of the total fraudulent transactions are not flagged as fra
 
 <br>
 
-#### Hypothesis summary
+### Hypothesis summary
 
 | ID  | Hypothesis                                                                                                    | Conclusion |
 |:-----:|:---------------------------------------------------------------------------------------------------------------|:------------|
