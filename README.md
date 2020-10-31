@@ -39,7 +39,7 @@ For FBC, in addition to getting many customers with this risky strategy to guara
 
 PS 1: All the references are stated at the end of this README.
 
-PS 2: You can find useful information at **section 1** of my [notebook](#).
+PS 2: You can find useful information at **section 1** of my [notebook](https://github.com/brunokatekawa/fraud_blocker_company/blob/main/pa002_blocker_fraud_company_bruno_katekawa_c01.ipynb).
 
 <br>
 
